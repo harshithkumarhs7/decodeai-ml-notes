@@ -1,5 +1,4 @@
-# decodeai-ml-notes
-Structured study notes for the DecodeAI ML YouTube lectures and playlists.
+
 # DecodeAI ML — Study Notes
 
 Structured, beginner-friendly study notes based on the **Decode AiML** YouTube lectures and playlists.
