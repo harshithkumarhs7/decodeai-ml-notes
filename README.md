@@ -96,7 +96,7 @@ The notes will be organized according to the learning sequence of the Decode AiM
 | 32 | 1.10.12 Private Constructor & Singleton Class | [Watch](https://www.youtube.com/watch?v=5dSAHxk5xDg) | ⏳ |
 | 33 | 1.10.13 Copy Constructor - Shallow & Deep Copy | [Watch](https://www.youtube.com/watch?v=ccuB6ntru0A) | ⏳ |
 | 34 | 1.10.14 Classes, Objects, Attributes & Methods | [Watch](https://www.youtube.com/watch?v=Bex4vxsFaf0) | ⏳ |
-| 35 | 1.10.15 Pillars of OOPs | [Watch](https://www.youtube.com/watch?v=V1GZ_da0UZk) | ⏳ |
+| 35 | 1.10.15 Pillars of OOPs | [Watch](https://www.youtube.com/watch?v=V1GZ_da0UZk) | [📖 Notes](https://share.gemini.google/K8beQXfAg72t) |
 | 36 | 1.10.16 Inheritance Explained | [Watch](https://www.youtube.com/watch?v=cTHsvDIo-kc) | ⏳ |
 | 37 | 1.10.17 Types of Inheritance | [Watch](https://www.youtube.com/watch?v=Z-qJSNHvhS8) | ⏳ |
 | 38 | 1.10.18 Encapsulation Explained | [Watch](https://www.youtube.com/watch?v=8pi6IuvQ2ow) | ⏳ |
