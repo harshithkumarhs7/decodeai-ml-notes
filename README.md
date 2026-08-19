@@ -108,7 +108,7 @@ The notes will be organized according to the learning sequence of the Decode AiM
 | 44 | 1.12.1 Scope in Python - Global & Local Scope | [Watch](https://www.youtube.com/watch?v=mGenTh35G9s) | ⏳ |
 | 45 | 1.12.2 Namespace in Python - LEGB Rule | [Watch](https://www.youtube.com/watch?v=Kf8icDQE2Pc) | ⏳ |
 | 46 | 1.13 File Handling in Python - Modes & File Types | [Watch](https://www.youtube.com/watch?v=AK9OwO67mWA) | ⏳ |
-| 47 | 1.14 Database Programming in Python - SQLite Database | [Watch](https://www.youtube.com/watch?v=kaaWDMMOAaI) | ⏳ |
+| 47 | 1.14 Database Programming in Python - SQLite Database | [Watch](https://www.youtube.com/watch?v=kaaWDMMOAaI) | [📖 Notes]([YOUR_GEMINI_LINK](https://share.gemini.google/FWMLBDuhLvvX)) |
 | 48 | 1.15 Generic Programming in Python | [Watch](https://www.youtube.com/watch?v=QahIghzjYSM) | ⏳ |
 | 49 | 1.16 Modules and Packages in Python | [Watch](https://www.youtube.com/watch?v=yE_hKwdjrLs) | ⏳ |
 | 50 | 1.17.1 Introduction to Multithreading in Python - Process & Threads | [Watch](https://www.youtube.com/watch?v=PViL9oPAIfw) | ⏳ |
