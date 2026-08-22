@@ -99,7 +99,7 @@ The notes will be organized according to the learning sequence of the Decode AiM
 | 35 | 1.10.15 Pillars of OOPs | [Watch](https://www.youtube.com/watch?v=V1GZ_da0UZk) | [📖 Notes](https://share.gemini.google/K8beQXfAg72t) |
 | 36 | 1.10.16 Inheritance Explained | [Watch](https://www.youtube.com/watch?v=cTHsvDIo-kc) | [📖 Notes](https://share.gemini.google/cW2LtCffBUjy) |
 | 37 | 1.10.17 Types of Inheritance | [Watch](https://www.youtube.com/watch?v=Z-qJSNHvhS8) | [📖 Notes](https://share.gemini.google/OdmVGZ6pM5lt) |
-| 38 | 1.10.18 Encapsulation Explained | [Watch](https://www.youtube.com/watch?v=8pi6IuvQ2ow) | ⏳ |
+| 38 | 1.10.18 Encapsulation Explained | [Watch](https://www.youtube.com/watch?v=8pi6IuvQ2ow) | [📖 Notes](https://share.gemini.google/Z8Rpvpa62tdp) |
 | 39 | 1.10.19 Polymorphism Explained | [Watch](https://www.youtube.com/watch?v=SSM2RiI99eI) | ⏳ |
 | 40 | 1.10.20 Abstract Class & Methods | [Watch](https://www.youtube.com/watch?v=gkGgr9mOvdk) | ⏳ |
 | 41 | 1.10.21 Abstraction in Python | [Watch](https://www.youtube.com/watch?v=U291icpS-Bc) | ⏳ |
