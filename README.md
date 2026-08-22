@@ -102,7 +102,7 @@ The notes will be organized according to the learning sequence of the Decode AiM
 | 38 | 1.10.18 Encapsulation Explained | [Watch](https://www.youtube.com/watch?v=8pi6IuvQ2ow) | [📖 Notes](https://share.gemini.google/Z8Rpvpa62tdp) |
 | 39 | 1.10.19 Polymorphism Explained | [Watch](https://www.youtube.com/watch?v=SSM2RiI99eI) | [📖 Notes](https://share.gemini.google/xNBRNSrZ2yjd) |
 | 40 | 1.10.20 Abstract Class & Methods | [Watch](https://www.youtube.com/watch?v=gkGgr9mOvdk) | [📖 Notes](https://share.gemini.google/p9mz0ZNmAAiy) |
-| 41 | 1.10.21 Abstraction in Python | [Watch](https://www.youtube.com/watch?v=U291icpS-Bc) | ⏳ |
+| 41 | 1.10.21 Abstraction in Python | [Watch](https://www.youtube.com/watch?v=U291icpS-Bc) | [📖 Notes](https://share.gemini.google/HT63Q0G0Ew90) |
 | 42 | 1.11.1 Exception Handling in Python - Errors vs Exceptions | [Watch](https://www.youtube.com/watch?v=4cyp33jiqyc) | ⏳ |
 | 43 | 1.11.2 Custom Exceptions | [Watch](https://www.youtube.com/watch?v=fZPMALyi9mE) | ⏳ |
 | 44 | 1.12.1 Scope in Python - Global & Local Scope | [Watch](https://www.youtube.com/watch?v=mGenTh35G9s) | ⏳ |
