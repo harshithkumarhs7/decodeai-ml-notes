@@ -125,7 +125,20 @@ Notes will be added as the corresponding lectures are completed.
 
 ## 03. NumPy
 
-Notes will be added as the corresponding lectures are completed.
+## 📚 NumPy Lecture Notes
+
+| # | Lecture | 🎥 Video | 📖 Notes |
+|---:|---|---|---|
+| 1 | 4.1 Introduction to NumPy \| NumPy vs Pandas | [Watch](https://www.youtube.com/watch?v=l_ZqAOkUadY) | ⏳ |
+| 2 | 4.2 NumPy Data Types Explained | [Watch](https://www.youtube.com/watch?v=ibRSLcuRjTU) | ⏳ |
+| 3 | 4.3 Creating NumPy Arrays \| Basic Operations | [Watch](https://www.youtube.com/watch?v=6vUfhWFklL4) | ⏳ |
+| 4 | 4.4 Mathematics for NumPy | [Watch](https://www.youtube.com/watch?v=2oxfO9Ji0ug) | ⏳ |
+| 5 | 4.5 NumPy Arrays with Built-In Functions | [Watch](https://www.youtube.com/watch?v=2BX2X3bYeg8) | ⏳ |
+| 6 | 4.6 Axis, Vectorization & Broadcasting in NumPy | [Watch](https://www.youtube.com/watch?v=7iJ7OeRLazE) | ⏳ |
+| 7 | 4.7 Indexing, Slicing & Subsetting in NumPy | [Watch](https://www.youtube.com/watch?v=HtljDoF778k) | ⏳ |
+| 8 | 4.8 Built-In Math Functions in NumPy | [Watch](https://www.youtube.com/watch?v=UAsuR18DuK0) | ⏳ |
+| 9 | 4.9 NumPy Statistics & Linear Algebra | [Watch](https://www.youtube.com/watch?v=w6azl3z_mig) | ⏳ |
+| 10 | 4.10 NumPy Miscellaneous Functions | [Watch](https://www.youtube.com/watch?v=rYRXSIoOQxo) | ⏳ |
 
 ---
 
