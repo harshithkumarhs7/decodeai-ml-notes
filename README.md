@@ -129,7 +129,7 @@ Notes will be added as the corresponding lectures are completed.
 
 | # | Lecture | 🎥 Video | 📖 Notes |
 |---:|---|---|---|
-| 1 | 4.1 Introduction to NumPy \| NumPy vs Pandas | [Watch](https://www.youtube.com/watch?v=l_ZqAOkUadY) | ⏳ |
+| 1 | 4.1 Introduction to NumPy \| NumPy vs Pandas | [Watch](https://www.youtube.com/watch?v=l_ZqAOkUadY) | [📖 Notes](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/blob/main/04.%20Complete%20NumPy%20-%20Basic%20to%20Advanced/4.01_Code_Introduction_to_Numpy.ipynb) |
 | 2 | 4.2 NumPy Data Types Explained | [Watch](https://www.youtube.com/watch?v=ibRSLcuRjTU) | ⏳ |
 | 3 | 4.3 Creating NumPy Arrays \| Basic Operations | [Watch](https://www.youtube.com/watch?v=6vUfhWFklL4) | ⏳ |
 | 4 | 4.4 Mathematics for NumPy | [Watch](https://www.youtube.com/watch?v=2oxfO9Ji0ug) | ⏳ |
